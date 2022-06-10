@@ -1,8 +1,8 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/dcnith/deepak/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I am Project Research Associate at the centre for Industrial Engineering and Operations Research (IEOR), Indian Institute Technology Bombay, Mumbai, India, since November 2017. Before joining SoULS project at IITB, I was an Engineering Analyst at KCE Pvt. Ltd. at Jaipur since April 2014. I obtained M.Tech (Signal Processing & Control) degree from Dept of EE, NIT Hamirpur (2010-2012) with thesis titled "Hiding Image and Speech data using Repeated Unitary Similarity Transformation" and bachelor's degree from Arya College of Engg. & IT , Jaipur in 2009. Between August 2012 - March 2014, I worked as Assistant Professor at Global Institute of Technology, Jaipur.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My research interests are broadly in Machine learning, Data Mining, Image Processing and Computer Vision.
 
 ### Markdown
 
