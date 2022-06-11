@@ -4,6 +4,9 @@ I am Project Research Associate at the centre for Industrial Engineering and Ope
 
 My research interests are broadly in Machine learning, Data Mining, Image Processing and Computer Vision.
 
+
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
