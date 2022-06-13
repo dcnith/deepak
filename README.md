@@ -6,7 +6,7 @@ I am Project Research Associate at the centre for Industrial Engineering and Ope
 My research interests are broadly in Machine learning, Data Mining, Image Processing and Computer Vision.
 
 
-
+<img src="IMG_4529.jpg" alt="Image description">
 
 ### Markdown
 
