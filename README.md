@@ -7,6 +7,7 @@ My research interests are broadly in Machine learning, Data Mining, Image Proces
 
 
 <img src="IMG_4529.jpg" alt="Image description">
+![Image](IMG_4529.jpg)
 
 ### Markdown
 
